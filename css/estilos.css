@@ -1,0 +1,129 @@
+*
+{
+
+    margin: 100px;
+}
+.cara
+{
+    background-color: red;
+    border-radius: 1000px;
+    width: 250px;
+    height: 250px;
+    position: relative;/*relative para acomdarse despues delcontenido de la caja*/
+    top: 0px;
+    left: 70px;
+}
+.caja1
+{
+    background-color: rgb(140, 0, 255);
+    width: 200px;
+    height: 200px;
+    position: absolute;/*fixed fija la caja */
+    top: 100px;
+    left: 300px;
+}
+.caja2
+{
+    background-color: rgb(140, 0, 255);
+    border: 100px;
+    border-radius: 100%;
+    width: 400px;
+    height: 80px;
+    position: relative;
+    top: 150px;
+    left: 0px;
+}
+
+.ojos1
+{
+    background-color: yellow;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    position: absolute;/*absuletparalasparedesy tope de la caja*/
+    top: -30px;
+    left: -40px;
+}.ojos2
+{
+    background-color: yellow;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    position: absolute;/*absuletparalasparedesy tope de la caja*/
+    top: -30px;
+    left: 40px;
+}
+.pupilas
+{
+    background-color: black;
+    border-radius: 100%;
+    
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: -85px;
+    left: -85px;
+
+}
+.boca
+{
+    background-color: rgb(37, 245, 0);
+    border: 100px;
+    border-radius: 100%;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: 150px;
+    left: -45px;
+}
+.boca1
+{
+    background-color: rgb(0, 0, 0);
+    border: 100px;
+    border-radius: 100%;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+    left: -75px;
+}
+.caja4
+{
+    background-color:rgb(140, 0, 255);
+    border-radius: 100%;
+    width: 400px;
+    height: 80px;
+    position: absolute; /*para el tope y pared de una caja padre*/
+    top: -280px;
+    left: -225px;
+}
+.caja5
+{
+    background-color:rgb(6, 119, 21);
+    border-radius: 100%;
+    width: 150px;
+    height: 40px;
+    position: absolute; /*para el tope y pared de una caja padre*/
+    top: -30px;
+    left: -180px;
+}
+.caja6
+{
+    background-color:rgb(6, 119, 21);
+    border-radius: 100%;
+    width: 60px;
+    height: 40px;
+    position: absolute; /*para el tope y pared de una caja padre*/
+    top: -30px;
+    left: -60px;
+}.caja7
+{
+    background-color:rgb(6, 119, 21);
+    border-radius: 100%;
+    width: 150px;
+    height: 40px;
+    position: absolute; /*para el tope y pared de una caja padre*/
+    top: -30px;
+    left: -20px;
+}
+
